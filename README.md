@@ -1,1 +1,1 @@
-# project_1
+Goal : Team can review monthly report automaticaly via slack channel
